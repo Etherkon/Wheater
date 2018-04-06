@@ -1,0 +1,9 @@
+[submodule "External/Alamofire"]
+	path = External/Alamofire
+	url = git@github.com:Alamofire/Alamofire.git
+[submodule "External/SwiftyJSON"]
+	path = External/SwiftyJSON
+	url = git@github.com:lingoer/SwiftyJSON.git
+[submodule "External/realm-cocoa"]
+	path = External/realm-cocoa
+url = git@github.com:realm/realm-cocoa.git
